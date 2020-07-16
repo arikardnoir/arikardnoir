@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Aristoteles here 👋
 
 💻 Software Engineer at  [@NextBSS](https://github.com/nextbss)
 
@@ -24,6 +24,7 @@
  
 
 Find me elsewhere 🌍
+
 🐦 [Twitter](https://twitter.com/arikardnoir)
 
 📸 [Instagram](https://instagram.com/arikardnoir)
