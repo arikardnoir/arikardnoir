@@ -4,8 +4,6 @@
 
 🇦🇴 Born in Luanda, Angola
 
-🇦🇴 Living in Luanda, Angola
-
 ## What I'm working on 
 🚀 Currently building a microservices with Golang
 
