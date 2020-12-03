@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hello, my nmae is Aristoteles im a <strong>Software Engineer</strong>.<br>
+  Hello, my name is Aristoteles im a <strong>Software Engineer</strong>.<br>
   i am studying <strong>System Arquitecture for Developers</strong>.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS3, SASS, Javascript (VueJS - Angula 2+), PHP (Laravel 5+), Golang.</strong>
+  🦄 Skills: <strong>HTML, CSS3, SASS, Javascript (VueJS - Angula 2+), PHP (Laravel 5+), Golang.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VSCode, MYSQLWorkbench, DBeaver, Insomnia, Postman, GoLand</strong>
+  💼 Tools: <strong>VSCode, MYSQLWorkbench, DBeaver, Insomnia, Postman, GoLand</strong>
 </p>
 
 <p align="left">
