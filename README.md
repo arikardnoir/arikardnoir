@@ -29,5 +29,5 @@
 </p>  
 
 <p align="left">
-  For more details, i'll give my banc's name and account 😜
+  For more details, i'll give my banc's name and account number 😜
 </p>
