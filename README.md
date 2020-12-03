@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello, my name is Aristoteles im a <strong>Software Engineer</strong>.<br>
-  i am studying <strong>System Arquitecture for Developers</strong>.
+  I am studying <strong>System Arquitecture for Developers</strong>.
 </p>
 
 <p align="left">
