@@ -1,33 +1,30 @@
-### Hi there, Aristoteles here 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-💻 Software Engineer at  [@NextBSS](https://github.com/nextbss)
+<p align="left"> 
+  Hello, my nmae is Aristoteles im a <strong>Software Engineer</strong>.<br>
+  i am studying <strong>System Arquitecture for Developers</strong>.
+</p>
 
-🇦🇴 Born in Luanda, Angola
+<p align="left">
+  🦄 Linguagens: <strong>HTML, CSS3, SASS, Javascript (VueJS - Angula 2+), PHP (Laravel 5+), Golang.</strong>
+</p>
 
-## What I'm working on 
-🚀 Currently building a microservices with Golang
+<p align="left">
+  💼 Ferramentas: <strong>VSCode, MYSQLWorkbench, DBeaver, Insomnia, Postman, GoLand</strong>
+</p>
 
-💚 Currently building a Apps with VueJS
+<p align="left">
+  💌 Find me elsewhere 🌍: ⤵️
+</p>
 
-🔑 Currently building a APIs with Laravel
+<p align="left">
+  <a href="https://www.linkedin.com/in/arikardnoir" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-## What i like to do 
- 🏀 I love to play and watch Basketbal
- 
- 🎮 I like to play Videogames
- 
- 📺 I Like to watch TV Shows
- 
- 🎧 I Love to Listen to Musics (Rap is my favorite)
- 
+  <a href="https://www.facebook.com/ARIKARDNOIR/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-Find me elsewhere 🌍
+  <a href="https://instagram.com/arikardnoir" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>  
 
-🐦 [Twitter](https://twitter.com/arikardnoir)
-
-📸 [Instagram](https://instagram.com/arikardnoir)
-
-💼 [LinkedIn](https://www.linkedin.com/in/arikardnoir)
-
-
-For more details, i'll give my banc's name and account 😜
