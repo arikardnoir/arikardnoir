@@ -1,33 +1,36 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+``` js
+const stebs = {
+    personal: {
+        fullName: 'Aristoteles Lopes',
+        birthDate: '1995-03-05',
+        pronouns: 'he' | 'his',
+        interests: ['music', 'games', 'language learning', 'anime', 'basketball'],
+        motivation: [
+            'Just be humble, sit down',
+            'Making life easier and smarter through tech',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vue', 'Next', 'Jest'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap', 'tailwind'],
+            },
+            backEnd: {
+                php: ['codeigniter', 'laravel'],
+                golang: []
+            },
+            architecture: ['Single Page Applications', 'Domain Driven Design'],
+        },
+    }
+}
+```
+  </div>
+</details>
 
-<p align="left"> 
-  Hello, my name is Aristoteles im a <strong>Software Engineer</strong>.<br>
-  I am studying <strong>System Arquitecture for Developers</strong>.
-</p>
-
-<p align="left">
-  🦄 Skills: <strong>HTML, CSS3, SASS, Javascript (VueJS - Angula 2+), PHP (Laravel 5+), Golang.</strong>
-</p>
-
-<p align="left">
-  💼 Tools: <strong>VSCode, MYSQLWorkbench, DBeaver, Insomnia, Postman, GoLand</strong>
-</p>
-
-<p align="left">
-  💌 Find me elsewhere 🌍: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/arikardnoir" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="https://www.facebook.com/ARIKARDNOIR/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="https://instagram.com/arikardnoir" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
-
-<p align="left">
-  For more details, i'll give my bank's name and account number 😜
-</p>
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Aarikardnoir7%40gmail.com)](mailto:aristo.lopes@gmail.com)
+[![Twitter: arikardnoir](https://img.shields.io/twitter/follow/arikardnoir?style=social)](https://twitter.com/arikardnoir)
+[![Linkedin: arikardnoir](https://img.shields.io/badge/-arikardnoir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arikardnoir/)](https://www.linkedin.com/in/arikardnoir/)
+[![GitHub: arikardnoir](https://img.shields.io/github/followers/arikardnoir?label=follow&style=social)](https://github.com/arikardnoir)
+</div>
