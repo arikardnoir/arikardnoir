@@ -18,7 +18,7 @@ const stebs = {
         pronouns: 'he' | 'his',
         interests: ['music', 'games', 'language learning', 'anime', 'basketball'],
         motivation: [
-            'Just be humble, sit down'            
+            'Just be humble, seat down'            
             'Peace, love, wine, sumol',
             'Making life easier and smarter through tech',
         ],
