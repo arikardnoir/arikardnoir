@@ -14,7 +14,7 @@ I'm a Software Engineer @ [wiza](https://wiza.ao).
 const stebs = {
     personal: {
         fullName: 'Aristoteles Lopes',
-        birthDate: '1995-03-05',
+        birthDate: '03-05',
         pronouns: 'he' | 'his',
         interests: ['music', 'games', 'language learning', 'anime', 'basketball'],
         motivation: [
