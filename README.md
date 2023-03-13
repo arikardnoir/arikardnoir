@@ -32,7 +32,9 @@ const stebs = {
             },
             backEnd: {
                 php: ['codeigniter', 'laravel'],
-                golang: []
+                golang: [],
+                ruby: ['rails'],
+                python: ['chalice']
             },
             architecture: ['Single Page Applications', 'Domain Driven Design'],
         },
